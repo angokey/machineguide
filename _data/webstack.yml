@@ -89,6 +89,10 @@
   sub: 
     - name: 国产刀具
       links:
+        - title: 株洲钻石
+          logo: https://www.zccct.com/favicon.ico
+          url: https://www.zccct.com/
+          description: 株洲钻石的产品涵盖了各类硬质合金切削刀具，包括车削、铣削、镗削、钻削、切断切槽和螺纹铰削加工的数控刀片及配套刀具、硬质合金整体刀具及工具系统等。
         - title: 厦门金鹭 XTC
           logo: https://www.gesac.com.cn/favicon.ico
           url: https://www.gesac.com.cn/
@@ -109,15 +113,15 @@
           logo: /assets/images/logos/appinn.png
           url: https://www.fengyitool.com/
           description: 国内可转位螺纹车削刀片，可转位螺纹铣削刀片，整体硬质合金螺纹铣刀，石油管螺纹刀片的优质供应商。是国内螺纹刀具品种规格齐全的供应商。
-         - title: 欧科亿 OKE
+        - title: 欧科亿 OKE
           logo: https://www.fengyitool.com/favicon.ico
           url: https://www.fengyitool.com/
           description: 提供数控刀具,车削刀片,可转位刀片,舍弃式刀片,涂层刀片,CNC刀片,硬质合金刀具,硬质合金刀片,金属切削刀片等高质量产品，为各行各业量身定制解决方案。      
-         - title: 顽石 哈德斯通 HARDSTONE
+        - title: 顽石 哈德斯通 HARDSTONE
           logo: http://www.huareal.com.cn/favicon.ico
           url: http://www.huareal.com.cn/
           description: 旗下HARDSTONE huareal 哈德斯通HADSTO。公司核心产品在加工精度、加工效率和使用寿命等切削性能方面已处于国内先进水平,进入了由欧美和日韩刀具企业长期占据国内中高端市场,特别是铣削刀片已形成显著竞争优势。           
-          - title: 松德 SDTOOLS
+        - title: 松德 SDTOOLS
           logo: /assets/images/logos/appinn.png
           url: https://www.sunder-tools.com/
           description: 专注于高端数控刀具产品的研发、生产制造和销售,优势产品微米级精镗刀、阻尼减振刀具，打破了国外刀具在该领域的垄断，并获得两项减振发明专利及众多实用新型专利，具有优异的减振效果和加工性能。。        
