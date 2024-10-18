@@ -128,18 +128,18 @@
       
     - name: 中国台湾
       links:
-        - title: Pttrns
-          logo: /assets/images/logos/Pttrns.png
-          url: https://www.pttrns.com/
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-        - title: Collect UI
-          logo: /assets/images/logos/CollectUI.png
-          url: http://collectui.com/
-          description: Daily inspiration collected from daily ui archive and beyond.
-        - title: UI uigreat
-          logo: /assets/images/logos/uiuigreat.png
-          url: http://ui.uigreat.com/
-          description: APP界面截图参考
+        - title: 正河源 CHAIN-HEADWAY
+          logo: https://www.chain-headway.com/favicon.ico
+          url: https://www.chain-headway.com/
+          description: SYIC正河源的CHAIN-HEADWAY产品线涵盖了铣刀、钻头、镗刀、刀柄、刀片等多种精密刀具，广泛应用于机械加工、模具制造、汽车制造等领域，旗下有大闸蟹、LEEMA乐马等商标。
+        - title: 安威 Annway
+          logo: https://www.annwaytools.com/favicon.ico
+          url: https://www.annwaytools.com/
+          description: 安威机具专业生产制造数控刀具、铣刀夹头、热缩式刀柄、钻夹头刀柄、粗搪刀、刀具设定仪、强力刀柄，产品符合国际市场对数控机械、高精密、高转速的切削需求。。
+        - title: 益诠 ECHAIN
+          logo: https://www.echaintool.com/favicon.ico
+          url: https://www.echaintool.com/
+          description: 产品范围涵盖内圆车刀架,外圆车刀架,铣刀,钨钢端铣刀,钨钢钻头,切断刀架,牙刀架,快速钻头,刀片,机床配件。
         - title: Android Niceties
           logo: /assets/images/logos/AndroidNiceties.png
           url: https://androidniceties.tumblr.com/
