@@ -29,22 +29,22 @@
       logo: https://www.taegutec.com/pages/wp-content/themes/Taegutec_New/img/logo.png
       url: https://www.taegutec.com/pages/zh-hans/products/
       description: 韩国最大、最具创新力的工业切削刀具制造商，涵盖了车削系列、铣削系列、切槽切断刀系列、T钻系列、整体硬质合金立铣刀系列及刀柄产品等。
-    - title: 优设
-      logo: /assets/images/logos/uisdc.png
-      url: https://www.uisdc.com/
-      description: 设计师交流学习平台
-    - title: Producthunt
-      logo: /assets/images/logos/producthunt.png
-      url: https://www.producthunt.com/
-      description: 发现新鲜有趣的产品
-    - title: Youtube
-      logo: /assets/images/logos/youtube.png
-      url: https://www.youtube.com/
-      description: 全球最大的学习分享平台
-    - title: Google
-      logo: /assets/images/logos/google.png
-      url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
+    - title: Gühring 钴领
+      logo: https://guehring.com/wp-content/uploads/2018/08/Logo_Guehring.png
+      url: https://guehring.com/cn/
+      description: 德国Guhring钴领的产品范围涵盖了各类金属切削工具，包括但不限于钻头、铣刀、镗刀、丝锥、螺纹刀具等。
+    - title: Ceratizit 森拉天时
+      logo: https://cuttingtools.ceratizit.com/etc.clientlibs/wnt/designs/clientlibs/header/resources/c61f94bde339/media/images/logo_CT.svg
+      url: https://cuttingtools.ceratizit.com/
+      description: CERATIZIT森拉天时刀具产品系列丰富，涵盖了车削、铣削、切断切槽、钻削、镗削等各类金属切削工具。
+    - title: SIMTEK
+      logo: https://www.simtek.com/_Resources/Static/Packages/Vendor.Simtek/Images/simtek_logo_2007.png
+      url: https://www.simtek.com/
+      description: 德国SIMTEK小孔加工刀具产品比较优势，产品系列齐全，涵盖了切槽、车削、圆铣削、拉削、螺纹旋风车削和多边形铣削等多种类型的刀具。
+    - title: 株洲钻石
+      logo: https://ctg.zccct.com:5501/img/logo.5e23bd26.png
+      url: https://www.zccct.com/
+      description: 株洲钻石的产品涵盖了各类硬质合金切削刀具，包括车削、铣削、镗削、钻削、切断切槽和螺纹铰削加工的数控刀片及配套刀具、硬质合金整体刀具及工具系统等。
     
 
 - name: 社区资讯
