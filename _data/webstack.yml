@@ -6,11 +6,11 @@
       url: https://www.sandvik.coromant.cn/
       description: 世界领先的金属切削刀具制造商,同时也是刀具解决方案和专业加工知识的提供者，致力于制定行业标准，不断推出创新技术，在满足金属切削行业当前要求的同时，引领世界进入工业4.0时代。
     - title: Walter 瓦尔特
-      logo: https://www.walter-tools.cn/_layouts/images/tibp/walter/logo_walter.svg
+      logo: https://www.walter-tools.cn/favicon.ico
       url: https://www.walter-tools.cn/zh-cn
       description: 核心品牌：瓦尔特 (Walter)、瓦尔特-蒂泰克斯 (Walter Titex) 和瓦尔特-普瑞特 (Walter Prototyp)。
     - title: SECO 山高
-      logo: https://www.secotools.com/dotcom/Content/assets/secologo.svg
+      logo: https://www.secotools.com/favicon.ico
       url: https://www.secotools.com/
       description: 为铣削、非转位刀具、孔加工和刀柄系统提供全面的金属切削解决方案的供应商。
     - title: Kennametal 肯纳金属
@@ -38,7 +38,7 @@
       url: https://cuttingtools.ceratizit.com/
       description: CERATIZIT森拉天时刀具产品系列丰富，涵盖了车削、铣削、切断切槽、钻削、镗削等各类金属切削工具。
     - title: SIMTEK
-      logo: https://www.simtek.com/_Resources/Static/Packages/Vendor.Simtek/Images/simtek_logo_2007.png
+      logo: https://www.simtek.com/_Resources/Static/Packages/Vendor.Simtek/Images/favicon.ico
       url: https://www.simtek.com/
       description: 德国SIMTEK小孔加工刀具产品比较优势，产品系列齐全，涵盖了切槽、车削、圆铣削、拉削、螺纹旋风车削和多边形铣削等多种类型的刀具。
     - title: 株洲钻石
