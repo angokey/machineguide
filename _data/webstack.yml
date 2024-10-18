@@ -102,7 +102,7 @@
           url: https://www.achtecktool.com/
           description: 澳克泰 Achteck主营产品包括高性能硬质合金涂层刀具、高性能硬质合金棒材，致力于高端数控刀具产品的自主研发，并为用户提供全套的关键技术、加工工艺和智能制造整体解决方案。
         - title: 千木 KILOWOOD
-          logo: http://www.kilowood.cn/favicon.ico
+          logo: /assets/images/logos/imooc.png
           url: http://www.kilowood.com/
           description: 成都成林提供切削刀具、铣削刀具、孔加工刀具、工具系统、硬质合金刀具等全系列数控加工工具。其中Kilowood品牌合金刀片、镗刀、液压刀柄和热胀刀柄等产品,具有优良稳定的性能,可实现对国际品牌的替换。
         - title: 森泰英格 EGNC
@@ -118,7 +118,7 @@
           url: http://www.oke-carbide.com/
           description: 欧科亿 OKE提供数控刀具,车削刀片,可转位刀片,舍弃式刀片,涂层刀片,CNC刀片,硬质合金刀具,硬质合金刀片,金属切削刀片等高质量产品，为各行各业量身定制解决方案。      
         - title: 顽石 哈德斯通 HARDSTONE
-          logo: http://www.huareal.com.cn/favicon.ico
+          logo: /assets/images/logos/imooc.png
           url: http://www.huareal.com.cn/
           description: 旗下HARDSTONE huareal 哈德斯通HADSTO。公司核心产品在加工精度、加工效率和使用寿命等切削性能方面已处于国内先进水平,进入了由欧美和日韩刀具企业长期占据国内中高端市场,特别是铣削刀片已形成显著竞争优势。           
         - title: 松德 SDTOOLS
