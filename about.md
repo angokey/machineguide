@@ -7,4 +7,4 @@ layout: about
 
 --- 
 
-> 这个网站是 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 的 [Jekyll](https://jekyllrb.com/) 版。
+> 这个网站是关于机械加工用的数控刀具的自用导航网站。
