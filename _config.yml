@@ -28,7 +28,7 @@ email: angokey@gmail.com
 
 # Build settings
 theme: minima
-plugins:
+gems:
   - jekyll-feed
 
 github:
