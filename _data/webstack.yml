@@ -50,85 +50,81 @@
 - name: 社区资讯
   icon: linecons-doc
   links: 
-    - title: 雷锋网
-      logo: /assets/images/logos/leiphone.png
-      url: https://www.leiphone.com/
-      description: 人工智能和智能硬件领域的互联网科技媒体
-    - title: 36kr
-      logo: /assets/images/logos/36kr.png
-      url: https://36kr.com/
-      description: 创业资讯、科技新闻
-    - title: 数英网
-      logo: /assets/images/logos/digitaling.png
-      url: https://www.digitaling.com/
-      description: 数字媒体及职业招聘网站
-    - title: 猎云网
-      logo: /assets/images/logos/lieyunwang.png
-      url: https://www.lieyunwang.com/
-      description: 互联网创业项目推荐和创业创新资讯
-    - title: 人人都是产品经理
-      logo: /assets/images/logos/woshipm.png
-      url: http://www.woshipm.com/
-      description: 产品经理、产品爱好者学习交流平台
-    - title: 互联网早读课
-      logo: /assets/images/logos/zaodula.png
-      url: https://www.zaodula.com/
-      description: 互联网行业深度阅读与学习平台
-    - title: 产品壹佰 
-      logo: /assets/images/logos/chanpin100.png
-      url: http://www.chanpin100.com/
-      description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-    - title: PMCAFF
-      logo: /assets/images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 中国第一产品经理人气组织，专注于研究互联网产品
-    - title: 爱运营
-      logo: /assets/images/logos/iyunying.png
-      url: http://www.iyunying.org/
-      description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-    - title: 鸟哥笔记
-      logo: /assets/images/logos/niaogebiji.png
-      url: http://www.niaogebiji.com/
-      description: 移动互联网第一干货平台
-    - title: 古田路9号
-      logo: /assets/images/logos/gtn9.png
-      url: http://www.gtn9.com/
-      description: 国内专业品牌创意平台
-    - title: 优阁网
-      logo: /assets/images/logos/uigreat.png
-      url: http://www.uigreat.com/
-      description: UI设计师学习交流社区
+    - title: 机械社区
+      logo: http://www.cmiw.cn/favicon.ico
+      url: http://www.cmiw.cn/
+      description: 机械社区专供中国机械制造行业及有关专业人士交流，一个比较权威的机械行业交流社区、机械行业新闻资讯、机械论坛、机械网、机械设计、机械工程、机械设备、机械加工、机械制造、机械原理、自动化设备、基础件、焊接、百万机械行业人士网络家园 
+    - title: UG爱好者论坛
+      logo: https://www.ugsnx.com/favicon.ico
+      url: https://www.ugsnx.com/
+      description: 中国具有价值的UG NX技术网站，免费提供UG NX软件下载、UG NX视频教程、UG NX三轴四轴五轴编程、UG NX建模造型、UG NX培训、NX软件安装及许可证错误解决方法。
+    - title: 国际金属加工网
+      logo: https://www.mmsonline.com.cn/favicon.ico
+      url: https://www.mmsonline.com.cn/
+      description: 金属加工行业具有深厚影响力的信息和交流平台,为用户展示机床,加工中心,刀具,测量与检测,工业润滑,工业软件等行业最新动态
+    - title: MM金属加工网
+      logo: https://mw.jgvogel.cn/favicon.ico
+      url: https://mw.jgvogel.cn/
+      description: MM金属加工网以推动整个行业发展为目标，向从事金属加工行业的人士，提供国内外先进制造技术及解决方案，搭建网上互动平台。涉及机床工具、刀具、油品、控制系统、机床配附件等方面内容介绍。
+    - title: 模具论坛
+      logo: https://www.mouldbbs.com/favicon.ico
+      url: https://www.mouldbbs.com/
+      description: 塑料,模具,五金,冲压,压铸,模具设计,CNC,UG,PROE,CAD,solidworks,软件
+    - title: 工业自动化网
+      logo: https://www.iianews.com/favicon.ico
+      url: https://www.iianews.com/
+      description: 致力于为工业自动化和智能制造领域的管理决策者及工程、设计、技术人员提供新鲜的产业观察，行业资讯和前沿科技动态。
+    - title: 工控网
+      logo: https://www.gongkong.com/favicon.ico
+      url: https://www.gongkong.com/
+      description: 中国工控、工业自动化、智能制造化领域大浏览量门户网站，是工业互联与智能制造的互联网+解决方案提供商。
+    - title: 超硬材料网
+      logo: http://www.idacn.org/favicon.ico
+      url: http://www.idacn.org/
+      description: 超硬材料行业中建站早、专业度高、信息真实、信息权威的专业门户网站。
     
 
-- name: 灵感采集
+- name: 知名刀具
   icon: linecons-lightbulb
   sub: 
-    - name: 发现产品
+    - name: 国产刀具
       links:
-        - title: Producthunt
-          logo: /assets/images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
-        - title: NEXT
-          logo: /assets/images/logos/NEXT.png
-          url: https://next.36kr.com/posts
-          description: 不错过任何一个新产品
-        - title: 少数派
+        - title: 株洲钻石 ZCCCT
+          logo: https://www.zccct.com/favicon.ico
+          url: https://www.zccct.com
+          description: 株洲钻石中国最大刀具企业，产品涵盖了各类硬质合金切削刀具，包括车削、铣削、镗削、钻削、切断切槽和螺纹铰削加工的数控刀片及配套刀具、硬质合金整体刀具及工具系统等。
+        - title: 厦门金鹭 XTC
+          logo: https://www.gesac.com.cn/favicon.ico
+          url: https://www.gesac.com.cn/
+          description: 厦门金鹭公司致力于高品质钨粉末材料、硬质合金、精密切削工具等钨系列产品的研发、生产，以及行业专业解决方案的提供，高品质硬质合金及其精密切削工具的制造商。
+        - title: 澳克泰 Achteck
           logo: /assets/images/logos/sspai.png
-          url: https://sspai.com/
-          description: 高品质数字消费指南
-        - title: 利器
-          logo: /assets/images/logos/liqi.png
-          url: https://liqi.io/
-          description: 创造者和他们的工具
-        - title: Today
+          url: https://www.achtecktool.com/
+          description: 澳克泰 Achteck主营产品包括高性能硬质合金涂层刀具、高性能硬质合金棒材，致力于高端数控刀具产品的自主研发，并为用户提供全套的关键技术、加工工艺和智能制造整体解决方案。
+        - title: 千木 KILOWOOD
+          logo: http://www.kilowood.cn/favicon.ico
+          url: http://www.kilowood.com/
+          description: 成都成林提供切削刀具、铣削刀具、孔加工刀具、工具系统、硬质合金刀具等全系列数控加工工具。其中Kilowood品牌合金刀片、镗刀、液压刀柄和热胀刀柄等产品,具有优良稳定的性能,可实现对国际品牌的替换。
+        - title: 森泰英格 EGNC
           logo: /assets/images/logos/today.png
-          url: http://today.itjuzi.com/
-          description: 为身边的新产品喝彩
-        - title: 小众软件
+          url: http://www.egnc.com.cn/
+          description: 森泰英格的优势特色产品主要体现在齿轮加工系列刀具、数控刀具及工具系统、液压刀柄/热装刀柄及液压夹具以及专业服务和整体解决方案等方面。
+        - title: 锋宜 FENGYI
           logo: /assets/images/logos/appinn.png
-          url: https://faxian.appinn.com/
-          description: 在这里发现更多有趣的应用
+          url: https://www.fengyitool.com/
+          description: 国内可转位螺纹车削刀片，可转位螺纹铣削刀片，整体硬质合金螺纹铣刀，石油管螺纹刀片的优质供应商。是国内螺纹刀具品种规格齐全的供应商。
+         - title: 欧科亿 OKE
+          logo: https://www.fengyitool.com/favicon.ico
+          url: https://www.fengyitool.com/
+          description: 提供数控刀具,车削刀片,可转位刀片,舍弃式刀片,涂层刀片,CNC刀片,硬质合金刀具,硬质合金刀片,金属切削刀片等高质量产品，为各行各业量身定制解决方案。      
+         - title: 顽石 哈德斯通 HARDSTONE
+          logo: http://www.huareal.com.cn/favicon.ico
+          url: http://www.huareal.com.cn/
+          description: 旗下HARDSTONE huareal 哈德斯通HADSTO。公司核心产品在加工精度、加工效率和使用寿命等切削性能方面已处于国内先进水平,进入了由欧美和日韩刀具企业长期占据国内中高端市场,特别是铣削刀片已形成显著竞争优势。           
+          - title: 松德 SDTOOLS
+          logo: /assets/images/logos/appinn.png
+          url: https://www.sunder-tools.com/
+          description: 专注于高端数控刀具产品的研发、生产制造和销售,优势产品微米级精镗刀、阻尼减振刀具，打破了国外刀具在该领域的垄断，并获得两项减振发明专利及众多实用新型专利，具有优异的减振效果和加工性能。。        
       
     - name: 界面灵感
       links:
