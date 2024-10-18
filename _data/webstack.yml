@@ -89,7 +89,7 @@
   sub: 
     - name: 国产刀具
       links:
-        - title: 株洲钻石
+        - title: 株洲钻石 ZCCCT
           logo: https://www.zccct.com/favicon.ico
           url: https://www.zccct.com/
           description: 株洲钻石的产品涵盖了各类硬质合金切削刀具，包括车削、铣削、镗削、钻削、切断切槽和螺纹铰削加工的数控刀片及配套刀具、硬质合金整体刀具及工具系统等。
@@ -124,14 +124,14 @@
         - title: 松德 SDTOOLS
           logo: /assets/images/logos/appinn.png
           url: https://www.sunder-tools.com/
-          description: 专注于高端数控刀具产品的研发、生产制造和销售,优势产品微米级精镗刀、阻尼减振刀具，打破了国外刀具在该领域的垄断，并获得两项减振发明专利及众多实用新型专利，具有优异的减振效果和加工性能。。        
+          description: 专注于高端数控刀具产品的研发、生产制造和销售,优势产品微米级精镗刀、阻尼减振刀具，打破了国外刀具在该领域的垄断，并获得两项减振发明专利及众多实用新型专利，具有优异的减振效果和加工性能。        
       
     - name: 中国台湾
       links:
         - title: 正河源 CHAIN-HEADWAY
           logo: https://www.chain-headway.com/favicon.ico
           url: https://www.chain-headway.com/
-          description: SYIC正河源的CHAIN-HEADWAY产品线涵盖了铣刀、钻头、镗刀、刀柄、刀片等多种精密刀具，广泛应用于机械加工、模具制造、汽车制造等领域，旗下有大闸蟹、LEEMA乐马等商标。
+          description: SYIC正河源的CHAIN-HEADWAY产品线涵盖了铣刀、钻头、镗刀、刀柄、刀片等多种精密刀具，广泛应用于机械加工、模具制造、汽车制造等领域，旗下有大闸蟹KOVIT、LEEMA乐马等商标。
         - title: 安威 Annway
           logo: https://www.annwaytools.com/favicon.ico
           url: https://www.annwaytools.com/
@@ -140,10 +140,10 @@
           logo: https://www.echaintool.com/favicon.ico
           url: https://www.echaintool.com/
           description: 产品范围涵盖内圆车刀架,外圆车刀架,铣刀,钨钢端铣刀,钨钢钻头,切断刀架,牙刀架,快速钻头,刀片,机床配件。
-        - title: Android Niceties
-          logo: /assets/images/logos/AndroidNiceties.png
-          url: https://androidniceties.tumblr.com/
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
+        - title: 三井 Shangin
+          logo: https://www.shangintool.com/favicon.ico
+          url: https://www.shangintool.com/
+          description: 三井Shan Gin Tools产品线涵盖外径车刀、内径车刀、切断刀、牙槽刀、小部品(多机能自动车刀)、45度面铣刀、直角端铣刀、钻铣刀、高进给铣刀、球刀、快速钻头、搪孔刀、卡式刀座...等。
       
     - name: 网页灵感
       links:
@@ -1020,5 +1020,4 @@
     - title: 携程设计委员会
       url: http://ued.ctrip.com/
       logo: /assets/images/logos/ctrip.png
-      description: 携程设计委员会-Ctrip Design Committee
-    
+      description: 携程设计委员会-Ctrip Design Committe
