@@ -89,10 +89,6 @@
   sub: 
     - name: 国产刀具
       links:
-        - title: 株洲钻石 ZCCCT
-          logo: https://www.zccct.com/favicon.ico
-          url: https://www.zccct.com
-          description: 株洲钻石中国最大刀具企业，产品涵盖了各类硬质合金切削刀具，包括车削、铣削、镗削、钻削、切断切槽和螺纹铰削加工的数控刀片及配套刀具、硬质合金整体刀具及工具系统等。
         - title: 厦门金鹭 XTC
           logo: https://www.gesac.com.cn/favicon.ico
           url: https://www.gesac.com.cn/
