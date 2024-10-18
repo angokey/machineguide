@@ -17,18 +17,18 @@
       logo: /assets/images/logos/zcool.png
       url: https://www.kennametal.com/cn/
       description: 美国Kennametal 金属加工刀具和刀具系统是您完成工作最简单、最方便的方法。
-    - title: Pinterest
-      logo: /assets/images/logos/pinterest.png
-      url: https://www.pinterest.com/
-      description: 全球美图收藏采集站
-    - title: 花瓣
-      logo: /assets/images/logos/huaban.png
-      url: https://huaban.com/
-      description: 收集灵感,保存有用的素材
-    - title: Medium
-      logo: /assets/images/logos/medium.png
-      url: https://medium.com/
-      description: 高质量设计文章
+    - title: DIAEDGE 三菱综合材料
+      logo: https://data.mmc-carbide.com/5816/6210/5109/DIAEDGE_logo_RGB.svg
+      url: https://www.mmc-carbide.com/cn
+      description: 三菱综合材料株式会社DIAEDGE品牌依托于强大的技术实力和丰富的生产经验，致力于为客户提供高品质、高性能的刀具产品。
+    - title: Kyocera 京瓷
+      logo: https://www.kyocera.com.cn/_assets/img/common/logo_ch.svg
+      url: https://www.kyocera.com.cn/prdct/cuttingtool/
+      description: 工业金属机械加工用全系列硬质合金、金属陶瓷、陶瓷、CBN、人造金刚石等材料制造的切削工具。
+    - title: Taegutec 特固克
+      logo: https://www.taegutec.com/pages/wp-content/themes/Taegutec_New/img/logo.png
+      url: https://www.taegutec.com/pages/zh-hans/products/
+      description: 韩国最大、最具创新力的工业切削刀具制造商，涵盖了车削系列、铣削系列、切槽切断刀系列、T钻系列、整体硬质合金立铣刀系列及刀柄产品等。
     - title: 优设
       logo: /assets/images/logos/uisdc.png
       url: https://www.uisdc.com/
