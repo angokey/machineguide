@@ -79,7 +79,7 @@
       url: https://www.gongkong.com/
       description: 中国工控、工业自动化、智能制造化领域大浏览量门户网站，是工业互联与智能制造的互联网+解决方案提供商。
     - title: 超硬材料网
-      logo: http://www.idacn.org/favicon.ico
+      logo: http://www.idacn.org/public/favicon.ico
       url: http://www.idacn.org/
       description: 超硬材料行业中建站早、专业度高、信息真实、信息权威的专业门户网站。
     
@@ -94,7 +94,7 @@
           url: https://www.zccct.com/
           description: 株洲钻石的产品涵盖了各类硬质合金切削刀具，包括车削、铣削、镗削、钻削、切断切槽和螺纹铰削加工的数控刀片及配套刀具、硬质合金整体刀具及工具系统等。
         - title: 厦门金鹭 XTC
-          logo: https://www.gesac.com.cn/favicon.ico
+          logo: /assets/images/logos/imooc.png
           url: https://www.gesac.com.cn/
           description: 厦门金鹭公司致力于高品质钨粉末材料、硬质合金、精密切削工具等钨系列产品的研发、生产，以及行业专业解决方案的提供，高品质硬质合金及其精密切削工具的制造商。
         - title: 澳克泰 Achteck
