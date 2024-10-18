@@ -14,15 +14,15 @@
       url: https://www.secotools.com/
       description: 为铣削、非转位刀具、孔加工和刀柄系统提供全面的金属切削解决方案的供应商。
     - title: Kennametal 肯纳金属
-      logo: /assets/images/logos/zcool.png
-      url: https://www.kennametal.com/cn/
+      logo: https://www.kennametal.com/favicon.ico
+      url: https://www.kennametal.com/
       description: 美国Kennametal 金属加工刀具和刀具系统是您完成工作最简单、最方便的方法。
     - title: DIAEDGE 三菱综合材料
-      logo: https://data.mmc-carbide.com/5816/6210/5109/DIAEDGE_logo_RGB.svg
+      logo: https://data.mmc-carbide.com/favicon.svg
       url: https://www.mmc-carbide.com/cn
       description: 三菱综合材料株式会社DIAEDGE品牌依托于强大的技术实力和丰富的生产经验，致力于为客户提供高品质、高性能的刀具产品。
     - title: Kyocera 京瓷
-      logo: https://www.kyocera.com.cn/_assets/img/common/logo_ch.svg
+      logo: https://www.kyocera.com.cn/favicon.ico
       url: https://www.kyocera.com.cn/prdct/cuttingtool/
       description: 工业金属机械加工用全系列硬质合金、金属陶瓷、陶瓷、CBN、人造金刚石等材料制造的切削工具。
     - title: Taegutec 特固克
@@ -34,7 +34,7 @@
       url: https://guehring.com/cn/
       description: 德国Guhring钴领的产品范围涵盖了各类金属切削工具，包括但不限于钻头、铣刀、镗刀、丝锥、螺纹刀具等。
     - title: Ceratizit 森拉天时
-      logo: https://cuttingtools.ceratizit.com/favicon.ico
+      logo: https://cuttingtools.ceratizit.com/etc.clientlibs/wnt/designs/clientlibs/header/resources/media/images/favicon.ico
       url: https://cuttingtools.ceratizit.com/
       description: CERATIZIT森拉天时刀具产品系列丰富，涵盖了车削、铣削、切断切槽、钻削、镗削等各类金属切削工具。
     - title: SIMTEK
