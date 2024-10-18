@@ -129,15 +129,15 @@
     - name: 中国台湾
       links:
         - title: 正河源 CHAIN-HEADWAY
-          logo: https://www.chain-headway.com/favicon.ico
+          logo: https://www.chain-headway.com/images/project/182/favicon.ico
           url: https://www.chain-headway.com/
           description: SYIC正河源的CHAIN-HEADWAY产品线涵盖了铣刀、钻头、镗刀、刀柄、刀片等多种精密刀具，广泛应用于机械加工、模具制造、汽车制造等领域，旗下有大闸蟹KOVIT、LEEMA乐马等商标。
         - title: 安威 Annway
-          logo: https://www.annwaytools.com/favicon.ico
+          logo: https://www.chain-headway.com/images/project/182/favicon.ico
           url: https://www.annwaytools.com/
           description: 安威机具专业生产制造数控刀具、铣刀夹头、热缩式刀柄、钻夹头刀柄、粗搪刀、刀具设定仪、强力刀柄，产品符合国际市场对数控机械、高精密、高转速的切削需求。。
         - title: 益诠 ECHAIN
-          logo: https://www.echaintool.com/favicon.ico
+          logo: https://www.echaintool.com/upload/admin/202409121108111.gif
           url: https://www.echaintool.com/
           description: 产品范围涵盖内圆车刀架,外圆车刀架,铣刀,钨钢端铣刀,钨钢钻头,切断刀架,牙刀架,快速钻头,刀片,机床配件。
         - title: 三井 Shangin
@@ -1020,4 +1020,5 @@
     - title: 携程设计委员会
       url: http://ued.ctrip.com/
       logo: /assets/images/logos/ctrip.png
-      description: 携程设计委员会-Ctrip Design Committe
+      description: 携程设计委员会-Ctrip Design Committee
+    
