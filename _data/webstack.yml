@@ -145,7 +145,7 @@
           url: https://www.shangintool.com/
           description: 三井Shan Gin Tools产品线涵盖外径车刀、内径车刀、切断刀、牙槽刀、小部品(多机能自动车刀)、45度面铣刀、直角端铣刀、钻铣刀、高进给铣刀、球刀、快速钻头、搪孔刀、卡式刀座...等。
       
-    - name: 欧美
+    - name: 欧洲美国
       links:
         - title: SANDVIK COROMANT 山特维克
           logo: https://www.sandvik.coromant.com/images/favicon.svg
@@ -164,7 +164,7 @@
           url: https://www.kennametal.com/
           description: 美国Kennametal 金属加工刀具和刀具系统是您完成工作最简单、最方便的方法。
         - title: ISCAR 伊斯卡
-          logo: https://www.iscar.com/media/logos-iscar-svg/ISCAR_Logo_flat--13.svg
+          logo: https://www.iscar.com/favicon.ico
           url: https://www.iscar.com/
           description: 伊斯卡ISCAR拥有从切槽切断，到车、铣、镗、钻、铰等全系列刀具产品，产品线覆盖航空航天工业、汽车工业、模具工业、能源工业、铁路工业、船舶工业、齿轮工业、铁路工业、轴承工业、机床工业、流体机械和医疗器械工业等多个领域。
         - title: Horn 号恩
@@ -199,7 +199,48 @@
           logo: https://www.dormerpramet.com/assets/icons/favicon.ico
           url: https://www.dormerpramet.com/
           description: Dormer Pramet多马普拉米特核心产品包括可转位和旋转钻孔、铣削、螺纹和车削刀具，这些产品广泛适用于一般加工工业。
-       
+    - name: 日本韩国
+      links:
+        - title: DIAEDGE 三菱综合材料
+          logo: https://data.mmc-carbide.com/8316/6296/7368/favicon.ico
+          url: https://www.mmc-carbide.com/cn
+          description: 日本三菱综合材料株式会社DIAEDGE品牌依托于强大的技术实力和丰富的生产经验，致力于为客户提供高品质、高性能的刀具产品。
+        - title: Kyocera 京瓷
+          logo: https://www.kyocera.com.cn/favicon.ico
+          url: https://www.kyocera.com.cn/prdct/cuttingtool/
+          description: 日本Kyocera 京瓷工业金属机械加工用全系列硬质合金、金属陶瓷、陶瓷、CBN、人造金刚石等材料制造的切削工具。
+        - title: Taegutec 特固克
+          logo: https://www.taegutec.com/pages/wp-content/uploads/2019/03/favicon.ico
+          url: https://www.taegutec.com/pages/zh-hans/products/
+          description: 韩国最大、最具创新力的工业切削刀具制造商，涵盖了车削系列、铣削系列、切槽切断刀系列、T钻系列、整体硬质合金立铣刀系列及刀柄产品等。      
+        - title: Sumitomo 住友电工
+          logo: https://www.sumitool.com/theme2023/assets/images/favicon/favicon.png
+          url: https://www.sumitool.com/cn/
+          description: 日本住友电工硬质合金, 硬质合金切削刀具 Igetalloy, Sumiboron, Sumidia, 车削, 铣削, 钻削, 刀片, CVD, PVD, CBN, PCD, 铣刀, 刀柄, 立铣刀, 钻头。
+        - title: TUNGALOY 泰珂洛
+          logo: https://tungaloy.com/wpdata/wp-content/themes/bridge/img/favicon.ico
+          url: https://tungaloy.com/cn/
+          description: 日本TUNGALOY 泰珂洛硬质合金切削刀具，品种规格覆盖了车、铣、钻、镗、拉等广泛的切削加工领域。
+        - title: YG-1 万基万
+          logo: https://brand.yg1.solutions/_res/yg1/en/img/favicon/favicon-32x32.png
+          url: https://www.yg1.solutions/
+          description: 韩国YG-1万基万，主要生产和销售铣刀、钻头、丝维、旋转锉、刀柄等精密切削工具。
+        - title: Korloy 克洛伊
+          logo: https://www.korloy.com/ko/images/favicon.ico
+          url: https://www.korloy.com/
+          description: 韩国Korloy 克洛伊产品线涵盖了车削系列、铣削系列、切槽切断刀系列等。
+        - title: BIG 大昭和
+          logo: https://www.big-daishowa.cn/img_top/big.ico
+          url: https://www.big-daishowa.com/
+          description: 日本Big-Daishowa 大昭和产品：斯玛特防振刀柄、液压刀柄、美夹刀柄、BIG PLUS刀柄、精密镗刀系列、强力夹头系列、攻丝刀柄、效率化刀柄（增速器、角度头等）等，适用于各种精密机械加工需求。
+        - title: OSG 欧仕机
+          logo: https://chinaosg.com/favicon.ico
+          url: https://chinaosg.com/
+          description: 日本OSG 欧仕机最著名的产品是丝锥，丝锥种类繁多，包括高速钢丝锥、硬质合金丝锥、螺旋槽丝锥和直槽丝锥等，适用于各种材料和螺纹类型。还有钻头、铣刀等产品。     
+        - title: Moldino 莫尔蒂诺（日立）
+          logo: https://www.moldino.com/favicon.ico
+          url: https://www.moldino.com/
+          description: 日本Moldino刀具，以模具加工刀具成名，在汽车、航空航天、电子和精密机械制造等领域被广泛使用，深受客户青睐。           
  
 - name: 素材资源
   icon: linecons-thumbs-up
