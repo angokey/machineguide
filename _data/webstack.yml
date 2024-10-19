@@ -51,11 +51,11 @@
   icon: linecons-doc
   links: 
     - title: 机械社区
-      logo: http://www.cmiw.cn/favicon.ico
+      logo: /assets/images/logos/imooc.png
       url: http://www.cmiw.cn/
       description: 机械社区专供中国机械制造行业及有关专业人士交流，一个比较权威的机械行业交流社区、机械行业新闻资讯、机械论坛、机械网、机械设计、机械工程、机械设备、机械加工、机械制造、机械原理、自动化设备、基础件、焊接、百万机械行业人士网络家园 
     - title: UG爱好者论坛
-      logo: https://www.ugsnx.com/favicon.ico
+      logo: /assets/images/logos/imooc.png
       url: https://www.ugsnx.com/
       description: 中国具有价值的UG NX技术网站，免费提供UG NX软件下载、UG NX视频教程、UG NX三轴四轴五轴编程、UG NX建模造型、UG NX培训、NX软件安装及许可证错误解决方法。
     - title: 国际金属加工网
@@ -145,66 +145,62 @@
           url: https://www.shangintool.com/
           description: 三井Shan Gin Tools产品线涵盖外径车刀、内径车刀、切断刀、牙槽刀、小部品(多机能自动车刀)、45度面铣刀、直角端铣刀、钻铣刀、高进给铣刀、球刀、快速钻头、搪孔刀、卡式刀座...等。
       
-    - name: 网页灵感
+    - name: 欧美
       links:
-        - title: Awwwards
-          logo: /assets/images/logos/awwwards.png
-          url: https://www.awwwards.com/
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-        - title: CSS Design Awards
-          logo: /assets/images/logos/CSSDesignAwards.png
-          url: https://www.cssdesignawards.com/
-          description: Website Awards & Inspiration - CSS Gallery
-        - title: The FWA
-          logo: /assets/images/logos/fwa.png
-          url: https://thefwa.com/
-          description: FWA - showcasing innovation every day since 2000
-        - title: Ecommercefolio
-          logo: /assets/images/logos/Ecommercefolio.png
-          url: http://www.ecommercefolio.com/
-          description: Only the Best Ecommerce Design Inspiration
-        - title: Lapa
-          logo: /assets/images/logos/Lapa.png
-          url: http://www.lapa.ninja/
-          description: The best landing page design inspiration from around the web.
-        - title: Reeoo
-          logo: /assets/images/logos/reeoo.png
-          url: http://reeoo.com/
-          description: web design inspiration and website gallery
-        - title: Designmunk
-          logo: /assets/images/logos/designmunk.png
-          url: https://designmunk.com/
-          description: Best Homepage Design Inspiration
-        - title: Best Websites Gallery
-          logo: /assets/images/logos/BWG.png
-          url: https://bestwebsite.gallery/
-          description: Website Showcase Inspiration | Best Websites Gallery
-        - title: Pages
-          logo: /assets/images/logos/pages.png
-          url: http://www.pages.xyz/
-          description: Curated directory of the best Pages
-        - title: SiteSee
-          logo: /assets/images/logos/SiteSee.png
-          url: https://sitesee.co/
-          description: SiteSee is a curated gallery of beautiful, modern websites collections.
-        - title: Site Inspire
-          logo: /assets/images/logos/siteInspire.png
-          url: https://www.siteinspire.com/
-          description: A CSS gallery and showcase of the best web design inspiration.
-        - title: WebInspiration
-          logo: /assets/images/logos/WebInspiration.png
-          url: http://web.uedna.com/
-          description: 网页设计欣赏,全球顶级网页设计
-        - title: navnav
-          logo: /assets/images/logos/navnav.png
-          url: https://navnav.co/
-          description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
-        - title: Really Good UX
-          logo: /assets/images/logos/ReallyGoodUX.png
-          url: https://www.reallygoodux.io/
-          description: A library of screenshots and examples of really good UX. Brought to you by
-
-      
+        - title: SANDVIK COROMANT 山特维克
+          logo: https://www.sandvik.coromant.com/images/favicon.svg
+          url: https://www.sandvik.coromant.cn/
+          description: 世界领先的金属切削刀具制造商,同时也是刀具解决方案和专业加工知识的提供者，致力于制定行业标准，不断推出创新技术，在满足金属切削行业当前要求的同时，引领世界进入工业4.0时代。
+        - title: Walter 瓦尔特
+          logo: https://www.walter-tools.cn/favicon.ico
+          url: https://www.walter-tools.cn/zh-cn
+          description: 核心品牌：瓦尔特 (Walter)、瓦尔特-蒂泰克斯 (Walter Titex) 和瓦尔特-普瑞特 (Walter Prototyp)。
+        - title: SECO 山高
+          logo: https://www.secotools.com/favicon.ico
+          url: https://www.secotools.com/
+          description: 为铣削、非转位刀具、孔加工和刀柄系统提供全面的金属切削解决方案的供应商。
+        - title: Kennametal 肯纳金属
+          logo: https://www.kennametal.com/etc.clientlibs/kennametal/clientlibs/site/kennametal/kennametal-site/resources/favicon.ico
+          url: https://www.kennametal.com/
+          description: 美国Kennametal 金属加工刀具和刀具系统是您完成工作最简单、最方便的方法。
+        - title: ISCAR 伊斯卡
+          logo: https://www.iscar.com/media/logos-iscar-svg/ISCAR_Logo_flat--13.svg
+          url: https://www.iscar.com/
+          description: 伊斯卡ISCAR拥有从切槽切断，到车、铣、镗、钻、铰等全系列刀具产品，产品线覆盖航空航天工业、汽车工业、模具工业、能源工业、铁路工业、船舶工业、齿轮工业、铁路工业、轴承工业、机床工业、流体机械和医疗器械工业等多个领域。
+        - title: Horn 号恩
+          logo: https://www.horn-group.com/typo3conf/ext/ph_content/Resources/Public/Icons/favicon.png
+          url: https://www.horn-group.com/cn
+          description: Horn号恩刀具的产品种类丰富，包括铣刀、钻头、车刀及整套刀具等，特别擅长于槽加工刀具的研发和生产。
+        - title: LMT 利美特
+          logo: https://www.lmtchina.com.cn/img/favicon.ico
+          url: https://www.lmtchina.com.cn/
+          description: 利美特LMT Tools（蓝帜）在铣削、螺纹加工、滚压系统、齿轮切削和先进刀具产品等领域具有深厚的技术积累和创新实力。旗下拥有多个知名品牌，包括利美特贝林（LMT Belin）、利美特菲特（LMT Fette）、利美特基宁格（LMT Kieninger）和利美特昂思路（LMT Onsrud）等。
+        - title: Gühring 钴领
+          logo: https://guehring.com/wp-content/uploads/2018/11/Guehring_G_64x64.png
+          url: https://guehring.com/cn/
+          description: 德国Guhring钴领的产品范围涵盖了各类金属切削工具，包括但不限于钻头、铣刀、镗刀、丝锥、螺纹刀具等。
+        - title: Ceratizit 森拉天时
+          logo: https://cuttingtools.ceratizit.com/etc.clientlibs/wnt/designs/clientlibs/header/resources/media/images/favicon.ico
+          url: https://cuttingtools.ceratizit.com/
+          description: CERATIZIT森拉天时刀具产品系列丰富，涵盖了车削、铣削、切断切槽、钻削、镗削等各类金属切削工具。
+        - title: SIMTEK
+          logo: https://www.simtek.com/_Resources/Static/Packages/Vendor.Simtek/Images/favicon.ico
+          url: https://www.simtek.com/
+          description: 德国SIMTEK主要分为车削（simturn）、铣削（simmill）和特殊（simcut）。车削部分刀具能满足各种刚性要求和加工质量要求；铣削部分刀具适用于平面和孔内的槽、螺纹等加工；特殊部分刀具用于不规则形状的插削、螺纹旋风铣等。
+        - title: ‌EMUGE-FRANKEN 埃莫克法兰肯
+          logo: https://www.emuge-franken-group.com/_ui/patternlab/favicon.ico
+          url: https://www.emuge-franken-group.com/
+          description: 埃莫克法兰肯专注于螺纹加工、铣削加工、工件夹固及精密量具领域。提供约110000种不同的高性能产品和技术服务，包括丝锥、挤压丝锥、螺纹铣刀、夹具等，广泛应用于汽车、航空航天、模具制造等行业。
+        - title: VARGUS 瓦格斯
+          logo: https://vargus.com/favicon.ico
+          url: https://vargus.com/
+          description: 瓦格斯螺纹加工的领导者，专注于螺纹车削、螺纹铣削以及小孔加工等领域，产品广泛应用于石油、医疗、航空、风电、汽车和传动等行业。
+        - title: Dormer Pramet 多马普拉米特
+          logo: https://www.dormerpramet.com/assets/icons/favicon.ico
+          url: https://www.dormerpramet.com/
+          description: Dormer Pramet多马普拉米特核心产品包括可转位和旋转钻孔、铣削、螺纹和车削刀具，这些产品广泛适用于一般加工工业。
+       
+ 
 - name: 素材资源
   icon: linecons-thumbs-up
   sub: 
